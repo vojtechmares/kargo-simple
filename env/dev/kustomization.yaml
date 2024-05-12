@@ -8,5 +8,4 @@ namespace: guestbook-simple-dev
 
 images:
 - name: ghcr.io/vojtechmares/guestbook
-  newName: ghcr.io/vojtechmares/guestbook
   newTag: v0.0.1
